@@ -1,4 +1,4 @@
-# Membuat Shorcut Untuk Compile c++
+# Membuat Shortcut Untuk Compile c++
 
 ## 1. Cari tasks: tasks configure default build task
 
@@ -19,7 +19,7 @@ Akan muncul file tasks.json di dalam folder .vscode atau jika tidak ingin mengik
 
 Copy paste script di bawah ke tasks.json
 
-`mint, ubuntu, debian`
+### 🐧 Linux (Arch, Ubuntu, Debian, Mint, dll.)
 ```
 {
     "tasks": [
@@ -49,7 +49,7 @@ Copy paste script di bawah ke tasks.json
 ```
 <br>
 
-`windows`
+### 🪟 Windows
 ```
 {
     "tasks": [
@@ -88,6 +88,3 @@ Berikut merupakan outputnya jika digunakan pada main.cpp.
 ![file-compile](img/file-hasil-compile.png)
 
 ![hasil](img/hasil.png)
-
-DM instagram saya jika ingin bertanya-tanya atau mengalami masalah dalam pengaturan<br>
-[DM](https://www.instagram.com/ridho.setia_wan_?igsh=Z2ViZ3o4dTUyNzJv)
